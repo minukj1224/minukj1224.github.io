@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Jeong Minuk
+description: No pain, No gain
+url: https://minukj1224.github.io
+avatar: /cat.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: minukj1224
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Jeong Minuk
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/minukj1224
+    - https://github.com/minukj1224
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Jeong Minuk
+  url: https://github.com/minukj1224/
+  email: minukj1224@gmail.com
